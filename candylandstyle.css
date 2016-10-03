@@ -1,8 +1,12 @@
 body{
     background-image: url(http://wallpapercave.com/wp/hpkTe5n.jpg);
-}
+} 
 
+.airballoon { background-image:none; background-color: skyblue;}
 h1 { font-family: "comic sans ms",cursive,sans-serif; text-align:center; color:#FF0066 }
+
+
+.icecream { background-image:none; background-color: powderblue ;}
 
 p { text-align: center; }
 
