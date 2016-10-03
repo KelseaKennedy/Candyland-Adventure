@@ -2,10 +2,10 @@ body{
     background-image: url(http://wallpapercave.com/wp/hpkTe5n.jpg);
 }
 
-sansserif {
-   font-family: "Comic Sans MS", cursive, sans-serif;
-}
+h1 { font-family: "comic sans ms",cursive,sans-serif; text-align:center; color:#FF0066 }
 
 p { text-align: center; }
 
-h1 { text-align:center; color:#FF0066 }
+p { font-family: "comic sans ms", cursive, sans-serif;)}
+
+/* Kelsea Kennedy */
